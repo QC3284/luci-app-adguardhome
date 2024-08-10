@@ -1,4 +1,6 @@
 # luci-app-adguardhome
+！！！注意！！！
+此仓库已修改，注意修改的文件！！！
 复杂的AdGuardHome的openwrt的luci界面
 
  - 可以管理网页端口
